@@ -1,2 +1,2 @@
-# CSCI-SHU 360 Spring 2021 Course Project 
+# CSCI-SHU 360 Machine Learning Course Project 
 ## Chinese Car Plate Recognition
