@@ -1,1 +1,1 @@
-# Chinese Car Plate Recognition
+# Chinese Car Plate Detection and Recognition
